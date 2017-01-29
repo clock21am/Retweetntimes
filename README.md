@@ -1,4 +1,7 @@
-# I am lazy person but we need to retweet some tweets we I can't do it manually so i made it to retweet a post "N" of times
+# Feeling lazy ?
+# Don't like Retweeting post manually 
+# Here is the solution  
+
 
 #Discription
 A python script that can automate your twitter activities in your account</br>
