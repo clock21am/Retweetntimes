@@ -35,4 +35,4 @@ A python script that can automate your twitter activities in your account</br>
 ```
 
 ##Eample output of my account
-(example.png)
+![alt tag](example.png)
